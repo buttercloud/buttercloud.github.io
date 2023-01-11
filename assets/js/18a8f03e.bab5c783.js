@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkupzaar_docs=self.webpackChunkupzaar_docs||[]).push([[4678],{5009:e=>{e.exports=JSON.parse('{"title":"Directives overview","slug":"/category/directives","permalink":"/docs/category/directives","navigation":{"previous":{"title":"Schema Documentation","permalink":"/docs/"},"next":{"title":"deprecated","permalink":"/docs/directives/deprecated"}}}')}}]);
