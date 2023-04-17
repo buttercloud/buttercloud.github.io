@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkupzaar_docs=self.webpackChunkupzaar_docs||[]).push([[9386],{7872:e=>{e.exports=JSON.parse('{"title":"Scalars overview","slug":"/category/scalars","permalink":"/docs/category/scalars","navigation":{"previous":{"title":"tiers","permalink":"/docs/reference/queries/tiers"},"next":{"title":"Boolean","permalink":"/docs/reference/scalars/boolean"}}}')}}]);
